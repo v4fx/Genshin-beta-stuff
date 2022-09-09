@@ -6,12 +6,12 @@
 You need a beta grasscutter in order to play the beta(see seggs master). Everything else should be pretty self explanatory.
 # Downloads:
 ## Genshin beta links:
-* [full client 3.0.52](https://autopatchhkbeta.yuanshen.com/client_app/download/beta_pc/20220722103758_pVL5L4ZLfmq18wsP/GenshinImpact_2.8.52_beta.zip)
-* [hdiff update(3.0.51 => 3.0.52)](https://autopatchhkbeta.yuanshen.com/client_app/beta_update/hk4e_global/32/game_2.8.51_2.8.52_hdiff_1EcTWAU2LmeOlt6M.zip)
+* [full client 3.0.52](https://autopatchhkbeta.yuanshen.com/client_app/download/beta_pc/20220902122656_FbSSHOqNSf45SJD8/GenshinImpact_3.0.52_beta.zip)
+* [hdiff update(3.0.51 => 3.0.52)](https://autopatchhkbeta.yuanshen.com/client_app/beta_update/hk4e_global/34/game_3.0.51_3.0.52_hdiff_9MdhNfQS6yn7TXml.zip)
 * [Patched metadata](https://anonfiles.com/L6we6b0cy1/global-metadata_dat)
 * [Patched Userassembly.dll](https://anonfiles.com/Gf47N668y5/UserAssembly_dll)
 ## Yuanshen beta links:
-* [full client 3.0.52](https://autopatchcn.yuanshen.com/client_app/download/beta_pc/20220722103646_PZYECO9hzqPsXx6e/YuanShen_2.8.52_beta.zip)
-* [hdiff update](https://autopatchcn.yuanshen.com/client_app/beta_update/hk4e_cn/29/game_2.8.51_2.8.52_hdiff_ANvF0xdWfeBYtw2U.zip)
+* [full client 3.0.52](https://autopatchcn.yuanshen.com/client_app/download/beta_pc/20220902121620_HTMPbRPgAjit9JC1/YuanShen_3.0.52_beta.zip)
+* [hdiff update](https://autopatchcn.yuanshen.com/client_app/beta_update/hk4e_cn/31/game_3.0.51_3.0.52_hdiff_c71vLnGDot9AXYNT.zip)
 * [Patched metadata](https://anonfiles.com/M1yf6d04ye/global-metadata_dat)
 ## Beta Grasscutter:
