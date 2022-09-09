@@ -9,3 +9,4 @@ You need a beta grasscutter in order to play the beta(see seggs master). Everyth
 * [hdiff update(3.0.51 => 3.0.52)](https://autopatchhkbeta.yuanshen.com/client_app/beta_update/hk4e_global/32/game_2.8.51_2.8.52_hdiff_1EcTWAU2LmeOlt6M.zip)
 * [Patched metadata](https://anonfiles.com/L6we6b0cy1/global-metadata_dat)
 * [Patched Userassembly.dll](https://anonfiles.com/Gf47N668y5/UserAssembly_dll)
+## Yuanshen beta links:
