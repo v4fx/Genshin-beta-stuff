@@ -6,7 +6,7 @@
 You need a beta grasscutter in order to play the beta(see seggs master). Everything else should be pretty self explanatory.
 # Downloads:
 ## Genshin beta links(OS):
-* [full client 3.0.52](https://autopatchhkbeta.yuanshen.com/client_app/download/beta_pc/20220902122656_FbSSHOqNSf45SJD8/GenshinImpact_3.0.52_beta.zip)
+* [full client 3.0.53](https://autopatchhkbeta.yuanshen.com/client_app/download/beta_pc/20220908223037_qbm74bk1YwphAPhm/GenshinImpact_3.0.53_beta.zip)
 * [hdiff update(3.0.52 => 3.0.53)](https://autopatchhkbeta.yuanshen.com/client_app/beta_update/hk4e_global/34/game_3.0.52_3.0.53_hdiff_FbEqjLW1Unw3S6DK.zip)
 * [Patched metadata](https://anonfiles.com/L6we6b0cy1/global-metadata_dat)
 * [Patched Userassembly.dll for 3.0.53](https://mega.nz/file/oXM0VZ5S#1RpxxTN6JC2wgGkTMcVEUG3ibJNKZLgWZa-x7BeP4uE)
