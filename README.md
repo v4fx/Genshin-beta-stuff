@@ -11,7 +11,7 @@ You need a beta grasscutter in order to play the beta(see seggs master). Everyth
 * [Patched metadata](https://anonfiles.com/L6we6b0cy1/global-metadata_dat)
 * [Patched Userassembly.dll for 3.0.53](https://mega.nz/file/oXM0VZ5S#1RpxxTN6JC2wgGkTMcVEUG3ibJNKZLgWZa-x7BeP4uE)
 ## Yuanshen beta links(CN):
-* [full client 3.0.52](https://autopatchcn.yuanshen.com/client_app/download/beta_pc/20220902121620_HTMPbRPgAjit9JC1/YuanShen_3.0.52_beta.zip)
+* [full client 3.0.53](https://autopatchcn.yuanshen.com/client_app/download/beta_pc/20220908212553_Eoy2bfeYCRwPXLd5/YuanShen_3.0.53_beta.zip)
 * [hdiff update(3.0.51 => 3.0.52)](https://autopatchcn.yuanshen.com/client_app/beta_update/hk4e_cn/31/game_3.0.51_3.0.52_hdiff_c71vLnGDot9AXYNT.zip)
 * [Patched metadata](https://anonfiles.com/M1yf6d04ye/global-metadata_dat)
 ## Beta Grasscutter:
